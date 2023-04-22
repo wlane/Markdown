@@ -10,9 +10,9 @@
 
 ![](https://images-pigo.oss-cn-beijing.aliyuncs.com/20230423003315.png)
 
-如果发现答案不是想要的，可以换个方式持续提问，一直到满意为止。点击右上角三个点中的编辑，将markdown内容复制。
+如果发现答案不是想要的，可以换个方式持续提问，一直到满意为止。点击右上角三个点中的编辑，将markdown内容复制，注意不需要开头和结尾的描述部分。
 
-## 2. 导入到minshow
+## 2. 导入到mindshow
 
 打开网址[mindshow](https://www.mindshow.fun/)（也可以下载app到本机安装），直接点击首页的导入创建，并且导入chatgpt返回的markdown文本内容：
 
