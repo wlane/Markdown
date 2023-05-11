@@ -1,3 +1,3 @@
 # Markdown
 
-存放一些Markdown格式的文档资料
+存放一些Markdown格式的文件资料
