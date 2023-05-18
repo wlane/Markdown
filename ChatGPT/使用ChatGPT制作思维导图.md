@@ -1,5 +1,7 @@
 # 使用ChatGPT制作思维导图
 
+<font color=red>不要盲目信任答案，有时候会存在bug，重要数据需要提前备份</font>
+
 ## 1. 提问
 
 首先尝试对chatgpt提问：

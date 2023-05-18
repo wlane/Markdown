@@ -1,5 +1,7 @@
 # 使用ChatGPT和Mindshow制作PPT
 
+<font color=red>不要盲目信任答案，有时候会存在bug，重要数据需要提前备份</font>
+
 ## 1. 生成chatgpt内容
 
 首先向chatgpt提问，这里使用的是[chatbox](https://github.com/Bin-Huang/chatbox)。问题越准确，提供的细节越多越好：

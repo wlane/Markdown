@@ -1,5 +1,7 @@
 # 使用ChatGPT处理excel
 
+<font color=red>不要盲目信任答案，有时候会存在bug，重要数据需要提前备份</font>
+
 ## 1.表格数据生成
 
 这里使用Chatbox提问。
