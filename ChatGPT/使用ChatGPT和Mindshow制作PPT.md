@@ -1,6 +1,8 @@
 # 使用ChatGPT和Mindshow制作PPT
 
-<font color=red>不要盲目信任答案，有时候会存在bug，重要数据需要提前备份</font>
+```diff
+- 不要盲目信任答案，有时候会存在bug，重要数据需要提前备份
+```
 
 ## 1. 生成chatgpt内容
 
