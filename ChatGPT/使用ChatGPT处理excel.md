@@ -4,6 +4,10 @@
 
 \`#ff0000`
 
+```markdown
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+```
+
 ## 1.表格数据生成
 
 这里使用Chatbox提问。
