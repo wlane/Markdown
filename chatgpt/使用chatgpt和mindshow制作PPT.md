@@ -1,4 +1,4 @@
-# 使用chatgpt和mindshow制作PPT
+# 使用ChatGPT和Mindshow制作PPT
 
 ## 1. 生成chatgpt内容
 
