@@ -5,7 +5,7 @@
 \`#ff0000`
 
 ```markdown
-The background color is `sadfasdfasdf` for light mode and `#000000` for dark mode.
+The background color is `sadfasdfasdf` for light mode `#0969DA` xxxx `#ff0000`
 ```
 
 ## 1.表格数据生成
