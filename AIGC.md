@@ -1,6 +1,6 @@
 # AIGC学习总结
     
-&nbsp; &nbsp; &nbsp; &nbsp;在极客时间[AIGC应用实战营](https://u.geekbang.org/subject/aigc/1007674?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)学习了一个学期，马上快要结束了，感谢老师助教还有苗苗班班的陪伴，现将整个学期做个总结。
+&nbsp; &nbsp; &nbsp; &nbsp;在极客时间[AIGC应用实战营](https://u.geekbang.org/subject/aigc/1007674?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)学习了一个学期，马上快要结束了，感谢老师助教还有萌萌班班的陪伴，现将整个学期做个总结。
     
 &nbsp; &nbsp; &nbsp; &nbsp;我目前从事的是运维相关的工作，和AI有关的可能是AIOPS的方向，目前我也正在学习相关的知识。我从chatgpt刚开放就尝试使用了，不过当时主要是简单的聊天机器人，后来发展到利用它来写一些八股文，乃至在开发工具中使用ai插件，但整体上并没有一个非常清晰的认识。
 而且我想在我工作的岗位上还是需要能够不断地应用新技术和新方法来应对不断变化的公司业务和架构需求的，不谈自主开发，我还是有必要先对整个AI的应用工具市场有所了解的。所以我参加训练营是希望能够通过系统的学习，深入理解AIGC的应用范围和局限。
